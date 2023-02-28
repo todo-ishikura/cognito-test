@@ -19,6 +19,9 @@
           "webClientId": "ti7b1hhd3sr7dqs7igdv79fva",
           "nativeClientId": "ti7b1hhd3sr7dqs7igdv79fva"
         }
+      },
+      "api": {
+        "shikigakutodocognito": {}
       }
     }
   }
