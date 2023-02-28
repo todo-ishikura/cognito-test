@@ -1,11 +1,3 @@
-// import '@/styles/globals.css'
-// import type { AppProps } from 'next/app'
-
-// export default function App({ Component, pageProps }: AppProps) {
-//   return <Component {...pageProps} />
-// }
-
-
 import React from "react";
 import { Authenticator } from "@aws-amplify/ui-react";
 import { Amplify } from "aws-amplify";
