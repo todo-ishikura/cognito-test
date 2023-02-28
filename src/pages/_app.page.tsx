@@ -6,7 +6,7 @@ import { MainLayout } from "components/layouts/MainLayout";
 import awsExports from "src/aws-exports";
 
 import "../styles/globals.css";
-import "antd/dist/antd.dark.css";
+// import "antd/dist/antd.dark.css";
 import "@aws-amplify/ui-react/styles.css";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 
