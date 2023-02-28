@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-shikigakutodocognito-dev-112405-authRole",
+      "UnauthRoleArn": "arn:aws:iam::294017217004:role/amplify-shikigakutodocognito-dev-112405-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::294017217004:role/amplify-shikigakutodocognito-dev-112405-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-shikigakutodocognito-dev-112405-deployment",
+      "UnauthRoleName": "amplify-shikigakutodocognito-dev-112405-unauthRole",
+      "StackName": "amplify-shikigakutodocognito-dev-112405",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:294017217004:stack/amplify-shikigakutodocognito-dev-112405/fa188710-b70e-11ed-8ecb-064d00e844c1",
+      "AmplifyAppId": "d35rx5tr46yx0o"
+    },
+    "categories": {
+      "auth": {
+        "shikigakutodocognito09986b9f": {
+          "userPoolId": "ap-northeast-1_MitTLTLSM",
+          "userPoolName": "todo-shikigaku-test",
+          "webClientId": "ti7b1hhd3sr7dqs7igdv79fva",
+          "nativeClientId": "ti7b1hhd3sr7dqs7igdv79fva"
+        }
+      }
+    }
+  }
+}

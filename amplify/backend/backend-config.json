@@ -1,0 +1,45 @@
+{
+  "auth": {
+    "shikigakutodocognito09986b9f": {
+      "customAuth": false,
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "Cognito",
+      "serviceType": "imported"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_auth_shikigakutodocognito09986b9f_nativeClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "shikigakutodocognito09986b9f"
+        }
+      ]
+    },
+    "AMPLIFY_auth_shikigakutodocognito09986b9f_userPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "shikigakutodocognito09986b9f"
+        }
+      ]
+    },
+    "AMPLIFY_auth_shikigakutodocognito09986b9f_userPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "shikigakutodocognito09986b9f"
+        }
+      ]
+    },
+    "AMPLIFY_auth_shikigakutodocognito09986b9f_webClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "shikigakutodocognito09986b9f"
+        }
+      ]
+    }
+  }
+}
